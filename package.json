@@ -1,0 +1,10 @@
+{
+  "name": "create-react-app-express",
+  "version": "0.0.1",
+  "workspaces": [
+    "apps/*"
+  ],
+  "author": "mqschwanda",
+  "license": "MIT",
+  "private": true
+}
